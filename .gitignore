@@ -1,0 +1,13 @@
+.ipynb_checkpoints/
+.virtual_documents/
+__pycache__/
+/.idea/
+.venv/
+/jupyter/
+cdk.out/
+
+**/data/
+**/assets/secrets/
+**/tests/data/output/
+**/config/
+**/logs/
